@@ -7,7 +7,7 @@ node {
 
         stage 'Checkout'
 
-        git url: 'https://github.com/NetHome/Utils.git'
+        git url: 'https://github.com/NetHome/cybergarage-upnp.git'
 
         stage 'Build'
 
